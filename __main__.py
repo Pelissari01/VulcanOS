@@ -74,7 +74,7 @@ def main():
                                     if escolha_vulcão._temperatura <= 850:
                                         print(f'Seu vulcão vai congelar em breve amigo :crying_face:')
                                         break
-                                    elif escolha_vulcão._temperatura <= 1050:
+                                    elif escolha_vulcão._temperatura <= 1000:
                                         print(f'Seu Vulcão ta SAFE irmão :grinning:')
                                         break
                                     elif escolha_vulcão._temperatura >= 1051:
