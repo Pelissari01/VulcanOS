@@ -55,5 +55,3 @@ Este projeto foi desenvolvido para praticar conceitos fundamentais de Python, es
 ---
 
 **Status:** Projeto concluído ✅
-
-Desenvolvido como parte da minha jornada de aprendizado em Python.
